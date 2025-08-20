@@ -1,7 +1,6 @@
- #virender54 project file
-<<<<<<< HEAD
-This is a file bye uic 
-=======
+#virender54 project file
+This is a file bye uic
 This is a file of cloud computing
->>>>>>> uic-ccd
+This line is from uic only
+This line from uic-ccd only
 
