@@ -1,2 +1,7 @@
  #virender54 project file
-This is a file bye uic
+<<<<<<< HEAD
+This is a file bye uic 
+=======
+This is a file of cloud computing
+>>>>>>> uic-ccd
+
